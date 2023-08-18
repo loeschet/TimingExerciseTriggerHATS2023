@@ -113,3 +113,10 @@ python3 ./timing/job_manager.py
 
 6. Once the job is done, you can investigate the results in the timing GUI. For example, you can check if your result of the arealess submission coincides with your result of the submission with an area (a variance of about 1-3% is normal).
 
+
+## Useful links
+
+- [Timing GUI](https://timing-gui-tsg-steam.app.cern.ch/)
+- [Timing repository](https://gitlab.cern.ch/cms-tsg/steam/timing)
+- [Timing studies twiki](https://twiki.cern.ch/twiki/bin/viewauth/CMS/TriggerStudiesTiming)
+- [Timing reports twiki](https://twiki.cern.ch/twiki/bin/viewauth/CMS/HLTCpuTimingReports2023)
